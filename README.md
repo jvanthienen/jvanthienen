@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jvanthienen
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning to code and blockchain
-- 💞️ I’m looking to collaborate on blockchain projects that enable financial inclusion
+- 🌱 I’m currently building apps with cursor, lovable, v0 and bolt.
+- 💞️ I’m looking to collaborate on interesting projects with people based out of sf
 - 📫 How to reach me josefina.van.thienen@gmail.com
 
 <!---
